@@ -109,6 +109,7 @@
 				<Description>P2 Current</Description>
 			</Item>			
 		</Resources>
+		<Description2></Description2>
 	</Object>	
 </LWM2M>
 

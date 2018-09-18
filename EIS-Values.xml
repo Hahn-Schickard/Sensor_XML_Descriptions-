@@ -76,6 +76,7 @@
 				<Description>Last or Current Measured Value from FlowY Sensor</Description>
 			</Item>
 		</Resources>
+		<Description2></Description2>
 	</Object>	
 </LWM2M>
 

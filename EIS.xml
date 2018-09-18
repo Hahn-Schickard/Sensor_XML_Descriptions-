@@ -76,6 +76,7 @@
 				<Description>Measurement Units Definition e.g. “m/s” for air flow.</Description>
 			</Item>
 		</Resources>
+		<Description2></Description2>
 	</Object>
 	<Object ObjectType="MODefinition">
 		<Name>Flow_Y</Name>
@@ -153,6 +154,7 @@
 				<Description>Measurement Units Definition e.g. “m/s” for air flow</Description>
 			</Item>
 		</Resources>
+		<Description2></Description2>
 	</Object>
 </LWM2M>
 
