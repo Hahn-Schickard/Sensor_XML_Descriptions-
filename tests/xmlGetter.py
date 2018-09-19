@@ -12,7 +12,7 @@ class xmlGetter:
 		os.chdir('./tests')
 		self.schemaFile = join(os.getcwd(),"LWM2M.xml")
 		## Go one directory up
-		os.chdir('..')
+		os.chdir('../ipso-descriptions/')
 		self.filePath = os.getcwd()
 
 		self.fileList = [] 
