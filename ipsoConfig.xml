@@ -1,35 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <IPSOModel xmlns="http://ipso/IPSOModel.xsd">
-
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/ApplicationConfigStatus.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Barometer.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Belt_Tension.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Signal_250Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Signal_500Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Signal_750Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Signal_1000Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Signal_unfiltered.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Spectrum_250Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Spectrum_500Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Spectrum_750Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Spectrum_1000Hz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/BMA255_Spectrum_unfiltered.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Grind_Sharpness.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Humidity.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Illuminance.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Maintenance.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Signal_5kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Signal_10kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Signal_20kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Signal_31250kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Signal_unfiltered.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Spectrum_5kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Spectrum_10kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Spectrum_20kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Spectrum_31250kHz.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/SMB470_Spectrum_unfiltered.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Temperature.xml" />
-     <IPSOPath File="@CONF_DIR@/Nodes/sensor_xml_descriptions/ipso-descriptions/Voltage.xml" />
-   
+    	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/ipsoWakaamaTestObj.xml" />
+    	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/deviceObject.xml" />
+    	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/testObj.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_3301.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_3303.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_3304.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_3315.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10002.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10005.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10006.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10007.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10008.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10010.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10011.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10013.xml" />
+	<IPSOPath File="@CONF_DIR@/Nodes/ipso-descriptions/Parsifal_10014.xml" />
 </IPSOModel>
 
