@@ -64,6 +64,17 @@
 				<Units></Units>
 				<Description>Acceleration in Zaxis in m/s²</Description>
 			</Item>	
+			<Item ID="10016">
+				<Name>StatusBytes</Name>
+				<Operations>R</Operations>
+				<MultipleInstances>Single</MultipleInstances>
+				<Dynamic>Dynamic</Dynamic>
+				<Mandatory>Mandatory</Mandatory>
+				<Type>Integer</Type>
+				<RangeEnumeration></RangeEnumeration>
+				<Units></Units>
+				<Description>Status</Description>
+			</Item>	
 		</Resources>
 		<Description2></Description2>
 	</Object>
